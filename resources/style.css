@@ -1,0 +1,53 @@
+html {
+  font-family: helvetica;
+  text-align: center;
+}
+
+.nav {
+  background-image: url('/Users/iitsadaa/Github/broadway/resources/the-flatiron-building.jpg')
+}
+
+.credit {
+    background-image: url('/Users/iitsadaa/Github/broadway/resources/the-flatiron-building.jpg')
+}
+
+a {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+  background-image: url('/Users/iitsadaa/Github/broadway/resources/the-flatiron-building.jpg')
+}
+
+h1 {
+  text-align: center;
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  background-image: url('/Users/iitsadaa/Github/broadway/resources/the-flatiron-building.jpg')
+}
+
+h2 {
+  text-align: center;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  text-align: center;
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+footer {
+  text-align: left;
+  background-color: dimgray;
+}
